@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9006'
     url: http://www.gutenberg.org/2009/agents/9006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19979#A-Righte-Merrie-ChristmasseThe-Story-of-Christ-Tide
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-11-30'
 gutenberg_type: Text
